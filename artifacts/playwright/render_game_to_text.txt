@@ -1,0 +1,20 @@
+{
+  "mode": "paused",
+  "score": 0,
+  "combo": 1,
+  "moves": 0,
+  "timeRemainingMs": 119750,
+  "message": "Paused.",
+  "rows": [
+    "G B R G R R Y R",
+    "B R R O G B B P",
+    "R R O Y G Y P O",
+    "O B Y P R R G Y",
+    "O G G Y O P P B",
+    "G G O B G G P Y",
+    "R B O R P B B R",
+    "P Y B B R O B G"
+  ],
+  "selected": null,
+  "lastClearCount": 0
+}
