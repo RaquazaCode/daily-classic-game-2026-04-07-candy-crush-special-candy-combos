@@ -9,10 +9,4 @@ export default defineConfig({
     screenshot: "off",
     video: "off",
   },
-  webServer: {
-    command: "python3 -m http.server 4173",
-    port: 4173,
-    reuseExistingServer: true,
-    timeout: 30_000,
-  },
 });
